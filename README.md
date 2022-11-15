@@ -1,2 +1,3 @@
 # RTOSproject
-It's a simple project using queues and timers in FreeRTOS. It's based on the mechanism of sending and recieving data to a Queue.
+Developing a system that constantly sends an receives messages to and from 2 Queues.
+Concepts utilized: Timer, Timer Callback function, Queues, Binary semaphores
